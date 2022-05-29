@@ -1,0 +1,27 @@
+@media all and (max-width:500px) {
+    .sec2{
+        justify-content: start;
+        padding-top:5rem;
+        flex-direction: column;
+    }
+    .wow{
+        background-color: #1e1e20;
+        width: auto;
+        height: auto;
+    }
+    .what{
+        margin: 1rem;
+        height: auto;
+        width: auto;
+    }
+    .container{
+        display: flex;
+        align-items: center;
+    justify-content: center;
+    }
+    .t1{
+        width: 70%;
+        font-size: 1rem;
+        
+    }
+}

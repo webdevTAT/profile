@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');/*google font*/
+@import url(section2.css);
+@import url(section2r.css);
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Varela Round', sans-serif;
+    transition: all ease .5s;
+}
+html::-webkit-scrollbar{ /* this will hide the scroll bar*/
+    display: none;
+}
